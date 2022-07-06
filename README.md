@@ -32,7 +32,7 @@ http://localhost:8080/
 ```sh
 http://localhost:8080/rates
 ```
-Получить Gif для определенной валюты - 
+Получить Gif для определенной валюты:
 ```sh
 http://localhost:8080/rates/{USD} 
 ```
